@@ -1,0 +1,2504 @@
+fileFormatVersion: 2
+guid: ce0b3f28787c8574ab89565a9620b5db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9088432678721586756
+    second: Iggy_0
+  - first:
+      213: -6239636036172228703
+    second: Iggy_1
+  - first:
+      213: 2964439374873448856
+    second: Iggy_2
+  - first:
+      213: -362502610746039612
+    second: Iggy_3
+  - first:
+      213: 7988973174530668509
+    second: Iggy_4
+  - first:
+      213: 5381947457077815960
+    second: Iggy_5
+  - first:
+      213: 3629641211290704171
+    second: Iggy_6
+  - first:
+      213: -8710101038322264619
+    second: Iggy_7
+  - first:
+      213: -6459488264411412223
+    second: Iggy_8
+  - first:
+      213: -1828635998819885235
+    second: Iggy_9
+  - first:
+      213: -3345904706019386439
+    second: Iggy_10
+  - first:
+      213: -2208292237083326132
+    second: Iggy_11
+  - first:
+      213: 2364669936874441156
+    second: Iggy_12
+  - first:
+      213: 5024679304334348216
+    second: Iggy_13
+  - first:
+      213: -586730300939648131
+    second: Iggy_14
+  - first:
+      213: 2806650331112882952
+    second: Iggy_15
+  - first:
+      213: -3876726060269253379
+    second: Iggy_16
+  - first:
+      213: -6542488308662540926
+    second: Iggy_17
+  - first:
+      213: 2265522630021747465
+    second: Iggy_18
+  - first:
+      213: -6550258610935141246
+    second: Iggy_19
+  - first:
+      213: -4144065826198700132
+    second: Iggy_20
+  - first:
+      213: -145201310366178229
+    second: Iggy_21
+  - first:
+      213: -5109406982402833706
+    second: Iggy_22
+  - first:
+      213: -4971460550615302849
+    second: Iggy_23
+  - first:
+      213: -8236976365837012668
+    second: Iggy_24
+  - first:
+      213: 471091598725021926
+    second: Iggy_25
+  - first:
+      213: -1462389635740093826
+    second: Iggy_26
+  - first:
+      213: -3607294986701178569
+    second: Iggy_27
+  - first:
+      213: -6020523856648762934
+    second: Iggy_28
+  - first:
+      213: -7347515056714823951
+    second: Iggy_29
+  - first:
+      213: -4872225801157693344
+    second: Iggy_30
+  - first:
+      213: 5171993333033501878
+    second: Iggy_31
+  - first:
+      213: 8955301523133260068
+    second: Iggy_32
+  - first:
+      213: 3152014767338338272
+    second: Iggy_33
+  - first:
+      213: -8860306595118032030
+    second: Iggy_34
+  - first:
+      213: 536017638582494150
+    second: Iggy_35
+  - first:
+      213: 7374519501690876361
+    second: Iggy_36
+  - first:
+      213: 7965984068656005652
+    second: Iggy_37
+  - first:
+      213: -2976386639338552176
+    second: Iggy_38
+  - first:
+      213: 7047718084527608154
+    second: Iggy_39
+  - first:
+      213: -502363871290154174
+    second: Iggy_40
+  - first:
+      213: -1363167433459964265
+    second: Iggy_41
+  - first:
+      213: -7395195989686074756
+    second: Iggy_42
+  - first:
+      213: -259777423297793346
+    second: Iggy_43
+  - first:
+      213: 2732477023118602157
+    second: Iggy_44
+  - first:
+      213: 4613266440821100272
+    second: Iggy_45
+  - first:
+      213: -3884228916109220050
+    second: Iggy_46
+  - first:
+      213: -6272052682864359279
+    second: Iggy_47
+  - first:
+      213: 7356610827997209477
+    second: Iggy_48
+  - first:
+      213: -5425563350553446984
+    second: Iggy_49
+  - first:
+      213: -7799240090089649002
+    second: Iggy_50
+  - first:
+      213: 1119382605613665074
+    second: Iggy_51
+  - first:
+      213: 2468128878237989112
+    second: Iggy_52
+  - first:
+      213: 3780586040863242074
+    second: Iggy_53
+  - first:
+      213: 3316651876622005447
+    second: Iggy_54
+  - first:
+      213: 8103477016859813839
+    second: Iggy_55
+  - first:
+      213: 7220085770436289557
+    second: Iggy_56
+  - first:
+      213: 8418152429066526836
+    second: Iggy_57
+  - first:
+      213: 7426152322759897466
+    second: Iggy_58
+  - first:
+      213: 8939696037049983770
+    second: Iggy_59
+  - first:
+      213: -5584714637787133523
+    second: Iggy_60
+  - first:
+      213: 114546734176311998
+    second: Iggy_61
+  - first:
+      213: 27175202872734967
+    second: Iggy_62
+  - first:
+      213: 6468967662403511048
+    second: Iggy_63
+  - first:
+      213: 8585497578499532006
+    second: Iggy_64
+  - first:
+      213: 316567875489694217
+    second: Iggy_65
+  - first:
+      213: 5105051830307789651
+    second: Iggy_66
+  - first:
+      213: 8420456750520085187
+    second: Iggy_67
+  - first:
+      213: 8015995317373818549
+    second: Iggy_68
+  - first:
+      213: -5184582655855221844
+    second: Iggy_69
+  - first:
+      213: -6404923563414949495
+    second: Iggy_70
+  - first:
+      213: 9156587555677531412
+    second: Iggy_71
+  - first:
+      213: 7625276481958191618
+    second: Iggy_72
+  - first:
+      213: -2212666860536096290
+    second: Iggy_73
+  - first:
+      213: -7655880567578318969
+    second: Iggy_74
+  - first:
+      213: 3318353983257979948
+    second: Iggy_75
+  - first:
+      213: 3182489140119140713
+    second: Iggy_76
+  - first:
+      213: -3761500731728910778
+    second: Iggy_77
+  - first:
+      213: 4829254141505957028
+    second: Iggy_78
+  - first:
+      213: 1029721561327003908
+    second: Iggy_79
+  - first:
+      213: 8259485827366785727
+    second: Iggy_80
+  - first:
+      213: -5135483973642311471
+    second: Iggy_81
+  - first:
+      213: 6434540917691115347
+    second: Iggy_82
+  - first:
+      213: 25858613623399730
+    second: Iggy_83
+  - first:
+      213: -3133478588981879512
+    second: Iggy_84
+  - first:
+      213: 7110604975205641598
+    second: Iggy_85
+  - first:
+      213: 401233863700679619
+    second: Iggy_86
+  - first:
+      213: -4884292879008773912
+    second: Iggy_87
+  - first:
+      213: 7367002474393596582
+    second: Iggy_88
+  - first:
+      213: -8576671573657597698
+    second: Iggy_89
+  - first:
+      213: 6200689573163758003
+    second: Iggy_90
+  - first:
+      213: -8519138934462113478
+    second: Iggy_91
+  - first:
+      213: -3640668957733274736
+    second: Iggy_92
+  - first:
+      213: 4059510840031059205
+    second: Iggy_93
+  - first:
+      213: -543154401324997545
+    second: Iggy_94
+  - first:
+      213: -6433190764885615567
+    second: Iggy_95
+  - first:
+      213: -6717360452087503288
+    second: Iggy_96
+  - first:
+      213: 6483481258747315204
+    second: Iggy_97
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iggy_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 707
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44680446e59902e70800000000000000
+      internalID: 9088432678721586756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 707
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a75a38851c5869a0800000000000000
+      internalID: -6239636036172228703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 707
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8915389b7edc32920800000000000000
+      internalID: 2964439374873448856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 707
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2a450dbc128faf0800000000000000
+      internalID: -362502610746039612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 707
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7760c56c88ede60800000000000000
+      internalID: 7988973174530668509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 680
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89aa0fa82b480ba40800000000000000
+      internalID: 5381947457077815960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 671
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29d91573731f5230800000000000000
+      internalID: 3629641211290704171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 671
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d55a05f0418f1780800000000000000
+      internalID: -8710101038322264619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 671
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10904f8b5a94b56a0800000000000000
+      internalID: -6459488264411412223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 671
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f59d26f316f96e0800000000000000
+      internalID: -1828635998819885235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 671
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb1861b565f091d0800000000000000
+      internalID: -3345904706019386439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_11
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 600
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49456019e19a51e0800000000000000
+      internalID: -2208292237083326132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_12
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 617
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9427e67cef0d020800000000000000
+      internalID: 2364669936874441156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 599
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf0b15943f3bb540800000000000000
+      internalID: 5024679304334348216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 600
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73c88166e38bd7f0800000000000000
+      internalID: -586730300939648131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 597
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80347ba1b9933f620800000000000000
+      internalID: 2806650331112882952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 588
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcc62e103a133ac0800000000000000
+      internalID: -3876726060269253379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 588
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285e50ffb896435a0800000000000000
+      internalID: -6542488308662540926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 588
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9031e0924d0c07f10800000000000000
+      internalID: 2265522630021747465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 588
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c64448f7ec815a0800000000000000
+      internalID: -6550258610935141246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 556
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f379756125d76c0800000000000000
+      internalID: -4144065826198700132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 556
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44e3b27d242cfdf0800000000000000
+      internalID: -145201310366178229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 555
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d28af89b6db719b0800000000000000
+      internalID: -5109406982402833706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 557
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3df4b918f2d10bb0800000000000000
+      internalID: -4971460550615302849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_24
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 556
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4413ffaf2a160bd80800000000000000
+      internalID: -8236976365837012668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_25
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 557
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e00da62057a98600800000000000000
+      internalID: 471091598725021926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_26
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 558
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72bf76df5c84bbe0800000000000000
+      internalID: -1462389635740093826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_27
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 558
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739f0a5625050fdc0800000000000000
+      internalID: -3607294986701178569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_28
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 540
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac98fa2537dc27ca0800000000000000
+      internalID: -6020523856648762934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 540
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6cda61cf1680a90800000000000000
+      internalID: -7347515056714823951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_30
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 540
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060b080b270626cb0800000000000000
+      internalID: -4872225801157693344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_31
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 540
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b48624b88c96c740800000000000000
+      internalID: 5171993333033501878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 496
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4216fdeb94f974c70800000000000000
+      internalID: 8955301523133260068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_33
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 513
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7bcf51bb43ebb20800000000000000
+      internalID: 3152014767338338272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_34
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 494
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b50fc781ed90580800000000000000
+      internalID: -8860306595118032030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_35
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 475
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3ad0dc331507700800000000000000
+      internalID: 536017638582494150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_36
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 474
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1b9773a6e875660800000000000000
+      internalID: 7374519501690876361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_37
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 459
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41289aa0e4cdc8e60800000000000000
+      internalID: 7965984068656005652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_38
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 459
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094c1000f10c1b6d0800000000000000
+      internalID: -2976386639338552176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_39
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 459
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a515d59e1468ec160800000000000000
+      internalID: 7047718084527608154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_40
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 459
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243a2cf78be3709f0800000000000000
+      internalID: -502363871290154174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_41
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 459
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796ec3f017e051de0800000000000000
+      internalID: -1363167433459964265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_42
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 416
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c724e56cd6cfe5990800000000000000
+      internalID: -7395195989686074756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_43
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 417
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb23ba35fc5156cf0800000000000000
+      internalID: -259777423297793346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_44
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 416
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafa6ef0065bbe520800000000000000
+      internalID: 2732477023118602157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_45
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 415
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe4f53c26d950040800000000000000
+      internalID: 4613266440821100272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_46
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 415
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27620d5162781ac0800000000000000
+      internalID: -3884228916109220050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_47
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 415
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1988551d05135f8a0800000000000000
+      internalID: -6272052682864359279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_48
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 406
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583e091329ee71660800000000000000
+      internalID: 7356610827997209477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_49
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 406
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b532e7e0e684b4b0800000000000000
+      internalID: -5425563350553446984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_50
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 406
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c8830d57883c390800000000000000
+      internalID: -7799240090089649002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_51
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 406
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b8a5f8c88d88f00800000000000000
+      internalID: 1119382605613665074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_52
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 406
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f83247532e804220800000000000000
+      internalID: 2468128878237989112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_53
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 406
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57347849f6577430800000000000000
+      internalID: 3780586040863242074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_54
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 366
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4ffa53f4d170e20800000000000000
+      internalID: 3316651876622005447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 365
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7a87ba965557070800000000000000
+      internalID: 8103477016859813839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_56
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 365
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51425ba21c5e23460800000000000000
+      internalID: 7220085770436289557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_57
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 324
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4702a9f680943d470800000000000000
+      internalID: 8418152429066526836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_58
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 324
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71bb0e213efe0760800000000000000
+      internalID: 7426152322759897466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_59
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 337
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13e4506e2e201c70800000000000000
+      internalID: 8939696037049983770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_60
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 321
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da906c240ab1f72b0800000000000000
+      internalID: -5584714637787133523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_61
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 319
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba92c8d5a3f69100800000000000000
+      internalID: 114546734176311998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_62
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 320
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4bde9f3bb806000800000000000000
+      internalID: 27175202872734967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_63
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 325
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803ec0d90d366c950800000000000000
+      internalID: 6468967662403511048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_64
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 315
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4e07a4f80d52770800000000000000
+      internalID: 8585497578499532006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_65
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 315
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9020dd53ecca46400800000000000000
+      internalID: 316567875489694217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_66
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 315
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b14798799c8d640800000000000000
+      internalID: 5105051830307789651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_67
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 315
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca2a451dc87bd470800000000000000
+      internalID: 8420456750520085187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_68
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 315
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6d24545498e3f60800000000000000
+      internalID: 8015995317373818549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_69
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 315
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca329192b89ac08b0800000000000000
+      internalID: -5184582655855221844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_70
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 315
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9817f1d24f32d17a0800000000000000
+      internalID: -6404923563414949495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_71
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 244
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41debe24edbb21f70800000000000000
+      internalID: 9156587555677531412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_72
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 242
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20222455f8c62d960800000000000000
+      internalID: 7625276481958191618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_73
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 248
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9977ba6370b41e0800000000000000
+      internalID: -2212666860536096290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_74
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 242
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787ada6bf29d0c590800000000000000
+      internalID: -7655880567578318969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_75
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 241
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c281bcd592d0e20800000000000000
+      internalID: 3318353983257979948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_76
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 246
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969f65ae2097a2c20800000000000000
+      internalID: 3182489140119140713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_77
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 242
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6462de683077ccbc0800000000000000
+      internalID: -3761500731728910778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_78
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 152
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aceb822e05f40340800000000000000
+      internalID: 4829254141505957028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_79
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 150
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409e478ed4e4a4e00800000000000000
+      internalID: 1029721561327003908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_80
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 148
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2129f69969f9270800000000000000
+      internalID: 8259485827366785727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_81
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 150
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8a651f8881bb8b0800000000000000
+      internalID: -5135483973642311471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_82
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 153
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357e1bb7fd41c4950800000000000000
+      internalID: 6434540917691115347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_83
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 152
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2352867a54edb5000800000000000000
+      internalID: 25858613623399730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_84
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 133
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d517043d5a384d0800000000000000
+      internalID: -3133478588981879512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_85
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 133
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7de1452d81fda260800000000000000
+      internalID: 7110604975205641598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_86
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 133
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb8cbdb218719500800000000000000
+      internalID: 401233863700679619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_87
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 133
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e846bf2181873cb0800000000000000
+      internalID: -4884292879008773912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_88
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 133
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a277a9e7b9dc3660800000000000000
+      internalID: 7367002474393596582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_89
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 133
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8c2f815aa89f880800000000000000
+      internalID: -8576671573657597698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_90
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 133
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1f4ea60564d0650800000000000000
+      internalID: 6200689573163758003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_91
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 133
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a399f238640f5c980800000000000000
+      internalID: -8519138934462113478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_92
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 133
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b348d3fdeb97dc0800000000000000
+      internalID: -3640668957733274736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_93
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 79
+        width: 89
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d16edc997465830800000000000000
+      internalID: 4059510840031059205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_94
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 76
+        width: 109
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75465d223f35678f0800000000000000
+      internalID: -543154401324997545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_95
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 11
+        width: 321
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c5ba67517b8b6a0800000000000000
+      internalID: -6433190764885615567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_96
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 20
+        width: 148
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8462119424427c2a0800000000000000
+      internalID: -6717360452087503288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_97
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 21
+        width: 149
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40449879ad3f9f950800000000000000
+      internalID: 6483481258747315204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
