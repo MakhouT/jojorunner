@@ -284,7 +284,7 @@ public class Player : MonoBehaviour
             if(attacking == false)
             {
                 Obstacle obs = collision.gameObject.GetComponent<Obstacle>();
-                FindObjectOfType<camerashaker>().shake();
+                //FindObjectOfType<camerashaker>().shake();
                 Destroy(collision.gameObject);
                 health -= 1;
               
@@ -328,7 +328,7 @@ public class Player : MonoBehaviour
                 velocity.x *= 0.5f;
              
                 health -= 1;
-                FindObjectOfType<camerashaker>().shake();
+                //FindObjectOfType<camerashaker>().shake();
             }
     
         }
